@@ -1,0 +1,86 @@
+[
+  {
+    "id": 0, 
+    "Author": "J.K. Rowling",
+    "Title": "Harry Potter and the Philosopher's Stone",
+    "PublicationDate": "1997-06-26",
+    "Price": 29.99
+  },
+  {
+    "id": 1,
+    "Author": "J.K. Rowling",
+    "Title": "Harry Potter and the Philosopher's Stone",
+    "PublicationDate": "1997-06-26",
+    "Price": 29.99
+  },
+  {
+    "id": 2,
+    "Author": "J.K. Rowling",
+    "Title": "Harry Potter and the Chamber of Secrets",
+    "PublicationDate": "1998-07-02",
+    "Price": 29.99
+  },
+  {
+    "id": 3,
+    "Author": "J.K. Rowling",
+    "Title": "Harry Potter and the Prisoner of Azkaban",
+    "PublicationDate": "1999-07-08",
+    "Price": 29.99
+  },
+  {
+    "id": 4,
+    "Author": "J.K. Rowling",
+    "Title": "Harry Potter and the Goblet of Fire",
+    "PublicationDate": "2000-07-08",
+    "Price": 29.99
+  },
+  {
+    "id": 5,
+    "Author": "J.K. Rowling",
+    "Title": "Harry Potter and the Order of the Phoenix",
+    "PublicationDate": "2003-06-21",
+    "Price": 29.99
+  },
+  {
+    "id": 6,
+    "Author": "J.K. Rowling",
+    "Title": "Harry Potter and the Half-Blood Prince",
+    "PublicationDate": "2005-07-16",
+    "Price": 29.99
+  },
+  {
+    "id": 7,
+    "Author": "J.K. Rowling",
+    "Title": "Harry Potter and the Deathly Hallows",
+    "PublicationDate": "2007-07-21",
+    "Price": 29.99
+  },
+  {
+    "id": 8,
+    "Author": "George Orwell",
+    "Title": "1984",
+    "PublicationDate": "1949-06-08",
+    "Price": 19.99
+  },
+  {
+    "id": 9,
+    "Author": "Jane Austen",
+    "Title": "Pride and Prejudice",
+    "PublicationDate": "1813-01-28",
+    "Price": 24.99
+  },
+  {
+    "id": 10,
+    "Author": "F. Scott Fitzgerald",
+    "Title": "The Great Gatsby",
+    "PublicationDate": "1925-04-10",
+    "Price": 22.99
+  },
+  {
+    "id": 11,
+    "Author": "Markus Zusak",
+    "Title": "The Book Thief",
+    "PublicationDate": "2005-03-14",
+    "Price": 21.99
+  }
+]
